@@ -1,0 +1,26 @@
+{
+  "ProjectName": "Photo album native code",
+  "ProjectGuid": "1828d066-489f-42cd-b1f6-d8d8cec97c1d",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Photoalbumnativecode",
+  "DisplayName": "Photo album native code",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "0.9.0",
+  "Framework": "NativeScript"
+}
